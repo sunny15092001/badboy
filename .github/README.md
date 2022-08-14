@@ -14,10 +14,6 @@
 <p align="center"><a href="https://t.me/OfficialNoinoi"><img src="https://telegra.ph/file/132e44742fac9e6ccd9f3.jpg"></a></p>
 <p align="center">
 
-<p align="center">
-    <br><b>Kangers Welcome You!</b><br>
-</p>
-
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=TeamNoinoi&repo=NoinoiMusic&theme=dark)
 
 
