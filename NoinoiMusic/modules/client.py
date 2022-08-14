@@ -597,16 +597,16 @@ async def cbtuto(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""**Make Your Own Bot Like this💡**
 
-Good news! Now you can allow to make your own music bot like to this one. You will be get repo link below just click on it and follow steps!
+Good news! 
 
-If you didn't know how to make your own bot then contact us at @OfficialNoinoi and get help from us.
+If you didn't know how to make your own bot then contact us at @unofficialaddaforuh and get help from us.
 
-**🔗 Repo Link : https://github.com/TeamNoinoi/NoinoiMusic**
+**🔗 CHATTIN GROUP Link : https://github.com/TeamNoinoi/NoinoiMusic**
 
 **Thanks !""",
        reply_markup=InlineKeyboardMarkup(
             [[
-                    InlineKeyboardButton("Get Repo 📦", url=f"https://github.com/TeamNoinoi/NoinoiMusic")
+                    InlineKeyboardButton("Get Repo 📦", url=f"https://t.me/unofficialaddaforuh")
                 ],
               [InlineKeyboardButton("🔙  Back Home", callback_data="cbabout")]]
         ),
