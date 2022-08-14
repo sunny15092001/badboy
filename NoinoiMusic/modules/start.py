@@ -26,17 +26,17 @@ Use the given buttons for more info📍""",
             [
                 [
                     InlineKeyboardButton(
-                        "Commands", callback_data="cbcmnds"),
+                        "💋Commands 💋", callback_data="cbcmnds"),
                     InlineKeyboardButton(
-                        "About", callback_data="cbabout")
+                        "🤍 About 🤍", callback_data="cbabout")
                 ],
                 [
                     InlineKeyboardButton(
-                        "Basic Guide", callback_data="cbguide")
+                        "♥️ Basic Guide ♥️", callback_data="cbguide")
                 ],
                 [
                     InlineKeyboardButton(
-                        "✚ Add Bot in Your Group ✚", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "💋 Add Bot in Your Group 💋", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ]
            ]
         ),
